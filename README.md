@@ -84,6 +84,7 @@ ls /mnt/c/Users/asus/Downloads/
 Choose option (1/2/3/4): 3
 Enter full file path: /mnt/c/Users/asus/Downloads/example.docx
 Enter key: mysecretkey
+File encrypted successfully: /mnt/c/Users/asus/Downloads/example.docx.xor
 
 ---
 
@@ -91,4 +92,3 @@ Enter key: mysecretkey
 
 MIT License
 
-File encrypted successfully: /mnt/c/Users/asus/Downloads/example.docx.xor
